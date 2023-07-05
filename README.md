@@ -1,5 +1,3 @@
-# test-npm
-
 # Mengenal pnpm Package Manager
 
 This repository contains the source code for the article ["Mengenal pnpm Package Manager"](https://medium.com/javascript-indonesia-community/mengenal-pnpm-package-manager-d62caf9a643) published on the JavaScript Indonesia Community's Medium publication.
